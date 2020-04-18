@@ -1,5 +1,5 @@
 # correlation-in-python
-shows how to create a correlation matrix and correlation heatmap in python
+This code shows how to create a correlation matrix and correlation heatmap in python
 
 There are three notebooks:
 1. correlation-in-python.ipynb
