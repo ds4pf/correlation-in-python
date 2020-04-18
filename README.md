@@ -3,7 +3,7 @@ This code shows how to create a correlation matrix and correlation heatmap in py
 
 There are three notebooks:
 1. correlation-in-python.ipynb
- The basic python notebook that uses the same input data as the corresponding R example.
+ The basic python notebook that uses the same input data as the corresponding R example
 2. correlation-ip-yfin.ipynb
  The correlation in python that uses the yfinance API as data source
 3. correlation-ip-fonds.ipynb
